@@ -4,7 +4,7 @@ This monorepo contains examples and utilities for building decentralized applica
 
 ## Included Projects
 
-- [`polkadot-api-example-cli`](./polkadot-api-example-cli/) - a command-line tool built with the Polkadot API that watches a specific account for `system.remarkWithEvent` extrinsics on the Westend network.
+- `polkadot-api-example-cli` - a command-line tool built with the Polkadot API that watches a specific account for `system.remarkWithEvent` extrinsics on the Westend network.
 
 Explore the projects inside each workspace folder.
 
