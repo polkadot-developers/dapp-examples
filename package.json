@@ -1,0 +1,7 @@
+{
+  "name": "dapp-examples-monorepo",
+  "private": true,
+  "workspaces": [
+    "polkadot-api-example-cli"
+  ]
+}
