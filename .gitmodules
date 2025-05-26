@@ -1,0 +1,3 @@
+[submodule "polkadot-api-example-cli"]
+	path = polkadot-api-example-cli
+	url = https://github.com/CrackTheCode016/polkadot-api-example-cli
